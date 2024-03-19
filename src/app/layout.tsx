@@ -22,7 +22,7 @@ export default function RootLayout({
         <>
           <ol>
             <li>
-              <Link href={"/"}>Go Home</Link>
+              <Link href={"/"}>Go Home Page</Link>
             </li>
             <li>
               <Link href={"/about"}>Go to About</Link>
